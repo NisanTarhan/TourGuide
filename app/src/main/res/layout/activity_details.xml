@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".DetailsActivity">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".DetailsActivity">
+
+        <ImageView
+            android:id="@+id/details_imageView"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/image_height"
+            android:contentDescription="@string/details_image"
+            android:scaleType="centerCrop"
+            android:src="@drawable/topkapi_palace" />
+
+        <TextView
+            android:id="@+id/title_textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:paddingTop="@dimen/padding_title"
+            android:textStyle="bold"
+            tools:text="Title" />
+
+        <TextView
+            android:id="@+id/description_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding"
+            android:textAppearance="?android:textAppearanceSmall"
+            tools:text="Sultans, concubines, and courtiers all lived in the beautiful Topkapi Palace in the 15th and 19th centuries when it was the court of the Ottoman Empire.The palace was first built in 1453 by Mehmed the Conqueror; a visit to this grand palace, the jewel-filled treasury and stunning harem gives guests a glimpse into grand lives.Go straight to the Harem as that closes earlier and gets crowded quickly.Have a wander around the four courtyards with the treasury in the third courtyard.Be sure to allocate a large chunk of time to visit the Topkapi as it’s easy to spend half a day wandering from room to room" />
+
+        <TextView
+            android:id="@+id/address_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="@dimen/padding"
+            android:paddingRight="@dimen/padding"
+            android:paddingLeft="@dimen/padding"
+            android:textAppearance="?android:textAppearanceMedium"
+            tools:text="Address" />
+
+    </LinearLayout>
+
+</ScrollView>

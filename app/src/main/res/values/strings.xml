@@ -1,0 +1,206 @@
+<resources>
+    <string name="app_name">IstanbulTourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_desc">PlaceImage</string>
+    <string name="details_image">Details Image</string>
+
+    <!-- Landmarks Name List -->
+    <string-array name="landmarksNameList">
+        <item>Topkapi Palace</item>
+        <item>Galata Tower</item>
+        <item>Dolmabahçe Palace</item>
+        <item>Blue Mosque</item>
+        <item>Hagia Sophia</item>
+        <item>Rumeli Fortress</item>
+        <item>Maiden Tower</item>
+        <item>Basilica Cistern</item>
+    </string-array>
+
+    <!-- Landmarks Address List -->
+    <string-array name="landmarksAddressList">
+        <item>Cankurtaran Mh., 34122 Fatih/İstanbul</item>
+        <item>Bereketzade Mahallesi, Galata Kulesi Sok, 34421 Beyoğlu/İstanbul</item>
+        <item>Vişnezade Mahallesi, Dolmabahçe Cd., 34357 Beşiktaş/İstanbul</item>
+        <item>Sultan Ahmet Mahallesi, Atmeydanı Cd. No:7, 34122 Fatih/İstanbul</item>
+        <item>Sultan Ahmet Mahallesi, Ayasofya Meydanı, 34122 Fatih/İstanbul</item>
+        <item>Rumeli Hisarı, Yahya Kemal Cd., 34470 Sarıyer/İstanbul</item>
+        <item>Salacak Mahallesi, Üsküdar Salacak Mevkii, 34668 Üsküdar/İstanbul</item>
+        <item>Alemdar Mh., Yerebatan Cd. 1/3, 34410 Fatih/İstanbul</item>
+    </string-array>
+
+    <!-- Landmarks Description List -->
+    <string-array name="landmarksDescriptionList">
+        <item>The Topkapi Palace is the biggest and one of the most popular sites to visit in Istanbul. It was built in between 1466 and 1478 by the sultan Mehmet II .
+            The palace was the political center of the Ottoman Empire between the 15th and 19th centuries, until they built Dolmabahce Palace by the waterside. The palace was opened to the public as a museum in 1924 by the order of Ataturk. </item>
+
+        <item>The Galata Tower is one of the highest and oldest towers of Istanbul. 63 meter (206 feet) high tower provides a panoramic view of the old town. It was built in the 14th century by the Genoese colony as part of the defense wall surrounding their district at Galata directly opposite ancient Constantinopolis.
+            They called the tower as "Christea Turris", or "Tower of Christ". The Genoese were involved in trade with the Byzantines and the tower was used for the surveillance of the Harbor in the Golden Horn.
+            After the conquest of Constantinople by Mehmet II, it served to detect fires in the city. Hezarfen Ahmet Celebi was the first flying Turk during the Ottoman Empire of the 17th century.</item>
+
+        <item>The Dolmabahce Palace is located along the European shore of the Bosphorus Strait. Originally there was a shallow bay where the Ottoman fleet used to anchor their ships.
+            Dolmabahce literally means "filled garden" in Turkish language. The palace is consisted of three main sections: Administrative apartments (Selamlik or Mabeyn-i Hümayun), Ceremonial Hall (Muayede Salonu), and Imperial Harem (Harem-i Hümayun). </item>
+
+        <item>Sultan Ahmed Mosque, known as the Blue Mosque by many tourists because of its bluish interior decoration, is the most important mosque of Istanbul standing next to the Byzantine Hippodrome in the old city center.
+            It was built by the Ottoman sultan Ahmed I between 1609 - 1616 facing Hagia Sophia..</item>
+
+        <item>The ancient Byzantine church, built by Justinian I between 532-537 AD after the Nika Riot, was later converted to a mosque with the addition of minarets in mid-15th century.
+            The remarkable structure with its 56m high immense dome is a museum today in which you can see both Christian and Islamic art. There are good examples of the Byzantine mosaics as well.
+            For about 1000 years this was the largest church in the world, and glory of the Byzantine Empire.</item>
+
+        <item>Rumeli fortress was built by the sultan Mehmet the Conqueror in four months only and directly opposite to Anadoluhisari in 1452 in preparation for the final attack on Constantinople, which led to the downfall of the Byzantine Empire.
+            The fortress is located at the narrowest section of the Bosphorus Strait (about 600 meters - 1970 feet). </item>
+
+        <item>Maiden Tower is located off the coast of Salacak neighborhood in Üsküdar district, at the southern entrance of the Bosphorus. The name comes from a legend. The name comes from a legend.</item>
+
+        <item>Byzantine cistern from the 6th century built by Justinian Iand is located to the south-west of Hagia Sophia. The water was brought from Belgrade Forest, 19 kilometers to the north of Istanbul, and it had a capacity to store 100.000 tons of water.</item>
+    </string-array>
+
+    <!--//////////////////////////////////////////////////////////////////-->
+
+    <!-- Museums Name List -->
+    <string-array name="museumsNameList">
+        <item>Istanbul Archaeology Museum</item>
+        <item>Istanbul Modern</item>
+        <item>Rahmi Koç Museum</item>
+        <item>Borusan Contemporary</item>
+        <item>Pera Museum</item>
+        <item>Sakip Sabanci Museum</item>
+    </string-array>
+
+    <!-- Museums Address List -->
+    <string-array name="museumsAddressList">
+        <item>Cankurtaran Mh., 34122 Fatih/İstanbul</item>
+        <item>Asmalımescit Mahallesi, Meşrutiyet Caddesi No:99, 34430 Beyoğlu/İstanbul</item>
+        <item>Keçeci Piri Mahallesi, Hasköy Cad. No:5, 34445 Beyoğlu/İstanbul</item>
+        <item>Rumeli Hisarı, Balta Limanı Hisar Cd. No:5/, 34470 Sarıyer/İstanbul</item>
+        <item>Asmalı Mescit Mahallesi, Meşrutiyet Cd. No:65, 34430 Beyoğlu/İstanbul</item>
+        <item>Emirgan Mahallesi, Sakıp Sabancı Cd. No:42, 34467 Sarıyer/İstanbul</item>
+    </string-array>
+
+    <!-- Museums Description List -->
+    <string-array name="museumsDescriptionList">
+        <item>This complex was build by the end of 19th century by the architect Vallaury. It includes the exquisite Tiled Kiosk and the Museum of the Ancient Orient and houses a large collection of artifacts and works of artbelonging to ancient Greek, Roman and other Anatolian civilizations.</item>
+
+        <item>Opened its doors in December 2004 thanks to Eczacibasi family, this is the first and only Modern Arts museum in Istanbul. It's housed at renovated old docks in Karaköy district facing Topkapi Palace, with a rich library, exhibitions, photograph gallery, sculpture courtyard, movie theater, cafe and souvenir shop. </item>
+
+        <item>This museum is located in the anchor casting workshop at the docks on the Golden Horn (Halic in Turkish), an area that symbolized industrialization in the Ottoman Empire of the 19th century. On the first floor, motors and steam engines are displayed. On the second floor are the scientific instruments and communications apparatuses.
+            The entrance is reserved for the aircraft department, mint machinery for printing paper money and coins, bicycles and motorcycles, the naval department and ship engines.
+            In the open area, there is a coast guard life-boat, a tram, a narrow gauge steam train, and a vertical steam boiler. There is a submarine in the water.</item>
+
+        <item>Perili Köşk (originally known as the Yusuf Ziya Pasha Mansion and currently housing the headquarters of Borusan Holding and the Borusan Contemporary art museum) is a historical monument at the Rumelihisarı neighbourhood of the Sarıyer district in Istanbul, Turkey.
+            Built in 1911, the castle-like red brick mansion with stained glass windows is located close to the Fatih Sultan Mehmet Bridge, on the European shore of the Bosphorus strait. The building has 9 floors above ground level and has a gross floor area of around 5,000 m2 (54,000 sq ft).
+            The popular nickname of the mansion, Perili Köşk (meaning the "Haunted Mansion" in Turkish) refers to its construction remaining partially unfinished for a long period (its second and third floors remained empty for decades.). The building's exterior appearance was carefully restored and completed in line with the original design between 1995 and 2000 by architect Hakan Kıran, who also renovated its interior.</item>
+
+        <item>The museum was opened in July 2005 by the Suna-Inan Kirac Foundation, another project of Koc family. The old building was originally constructed in 1893 by architect Achille Manousos and restored recently for the modern museum. Kutahya tiles, Anatolian weights and measurements, and Oriental portraits painting Collections are the permanent exhibitions in the museum.</item>
+
+        <item>The building today known as the Horse Mansion on the Bosphorus was built in the 19th century and belonged to Sabanci family for many years. Just before the deathof Sakip Sabanci the mansion was converted into a museum and opened to the public with its antique furnishings and art collections.</item>
+
+    </string-array>
+
+    <!--//////////////////////////////////////////////////////////////////-->
+
+    <!-- Restaurants Name List -->
+    <string-array name="restaurantsNameList">
+        <item>Leb-i derya</item>
+        <item>Mikla</item>
+        <item>360 Istanbul</item>
+        <item>Poseidon</item>
+        <item>Tapasuma</item>
+        <item>Ulus 29</item>
+        <item>Vogue Restaurant</item>
+        <item>Lokma</item>
+    </string-array>
+
+    <!-- Restaurants Address List -->
+    <string-array name="restaurantsAddressList">
+        <item>Şahkulu Mah., Kumbaracı Ykş. No:57, 34425 Tünel/Beyoğlu/Beyoğlu/İstanbul</item>
+        <item>The Marmara Pera Meşrutiyet Caddesi 15 34430, Beyoğlu, İstanbul, 34430</item>
+        <item>Tomtom Mahallesi, İstiklal Cd. No:8 D:163, 34433 Beyoğlu/Tepebaşı/Beyoğlu/İstanbul</item>
+        <item>Bebek Mahallesi, Cevdet Paşa Caddesi, No 58, Beşiktaş, İstanbul</item>
+        <item>Çengelköy Mahallesi, Çengelköy Mh., Kuleli Cd No:43, İstanbul</item>
+        <item>Kuruçeşme Mahallesi, 34345 Beşiktaş/İstanbul</item>
+        <item>Vişnezade Mahallesi, Akaretler Spor Cad. No:92 D:A BLOK, 34357 Beşiktaş/İstanbul</item>
+        <item>Rumeli Hisarı, Yahya Kemal Cd. No:18, 34470 Sarıyer/İstanbul</item>
+    </string-array>
+
+    <!-- Restaurants Description List -->
+    <string-array name="restaurantsDescriptionList">
+        <item>Some of Istanbul’s best luxury dining experiences are set on high rooftops, allowing visitors to revel in the city’s inspiring views and perfect climate.
+            Leb-i derya is thought to be one of the leaders of this trend and, although it is now rivaled by many competitors, it still stands as one of the best.
+            The menu offers a range of cuisines to match its guest’s tastebuds, including Turkish delicacies such as lamb shish with plums, pomegranate molasses, fresh thyme, spiced rice with current and pine nuts.
+            There is also delectable pastas such as seafood linguine with salmon, calamari, shrimp, tomato cream sauce and fresh mint. Also on the menu are refreshing salads such as Thai-marinated grilled chicken salad with roasted yellow-red peppers and mango vinaigrette.
+            There’s now two restaurants in the city and both locations act as havens for quality dining in beautifully designed settings.</item>
+
+        <item>Turkish-Swedish chef Mehmet Gürs sets the Istanbul culinary bar high – 20 storeys high, to be exact. Located on the rooftop of the chic Marmara Pera hotel, Mikla, which opened in 2005, has a dazzling view of the city below.
+            But the stylish restaurant's menu, which reflects both Turkish and Scandinavian influences, more than holds its own. Try the cherrywood-smoked loin of lamb or the pistachio-crusted lamb chops and finish up with a plate of artisanal cheeses from the east.
+            The restaurant's extensive wine list is a good introduction to the exciting developments in Turkish wine making.</item>
+
+        <item>The multi award winning 360istanbul is set in a penthouse perched on a 19th century apartment building overlooking the old embassy row in Beyoglu.
+            It commands a 360 breathe taking landscape view of Istanbul all the way from the up close steeple of St Antoine’s Church and across the Bosphorus strait to the Hagia Sophia Mosque and out to the Sea of Marmara.
+            360 is open for lunch and dinner, offering a twist on the modern Turkish meze fused with international cuisine.</item>
+
+        <item>Popular with Istanbul’s beautiful people, the large deck area at this Bebek seafood restaurant floats above the waters of the Bosphorus, offering superb views of Bebek Marina — the ideal setting in which to enjoy simple, fresh calamari, sea bass and whatever the catch of the day happens to be.</item>
+
+        <item>Tapasuma, located on the Çengelköy shore of the enchanted city of İstanbul where East meets West. Located in a restored nineteenth century Ottoman distillery.
+            Executive Chef Gökay Çakıroğlu builds upon the best of seasonal fish dishes with a unique twist on modern Turkish and Mediterranean cuisines.
+            Ideal for intimate dining or a get-away to watch the İstanbul sunset, Tapasuma offers an unforgettable experience in a cozy atmosphere with its exceptional location overlooking a view that has no equal.</item>
+
+        <item>Ulus 29 is an Istanbul classic, with great food, proper cocktails, stunning views of the Bosphorus and a wild club scene. In the upscale neighborhood of Ulus, far from the crowds of Taksim or the tourist spots of Sultanahmet, this trendy restaurant/bar/club serves contemporary Mediterranean cuisine fusing international selections with Turkish specialties.</item>
+
+        <item>With its panoramic view of the Bosphorus and exquisite Istanbul city-views, Vogue Restaurant has been among Istanbul’s most select and cherished venues since the day of its opening. Vogue Restaurant presents a select menu of tastes from the world cuisine, including the flavors of the Mediterranean, over 70 varieties of sushi and a comprehensive wine list.</item>
+
+        <item>With the best view of the bosphorus in Rumelian Fortress area, LOKMA offers a rich breakfast for people who like to start the day happy and energetic and also with the different selections from Turkish and World Cuisine allows you to enjoy a lunch or a dinner across the view of Bosphorus.</item>
+    </string-array>
+
+    <!--//////////////////////////////////////////////////////////////////-->
+
+    <!-- Shopping Name List -->
+    <string-array name="shoppingNameList">
+        <item>Grand Bazaar</item>
+        <item>Istiklal Street</item>
+        <item>Egyptian Spice Bazaar</item>
+        <item>Çukurcuma</item>
+        <item>Bağdat Street</item>
+        <item>Arasta Bazaar</item>
+        <item>Book Bazaar</item>
+    </string-array>
+
+    <!-- Shopping Address List -->
+    <string-array name="shoppingAddressList">
+        <item>Beyazıt Mh., 34126 Fatih/İstanbul</item>
+        <item>Istiklal Caddesi, Beyoglu, Istanbul</item>
+        <item>Rüstem Paşa Mahallesi, Erzak Ambarı Sok. No:92, 34116 Fatih/İstanbul</item>
+        <item>Çukurcuma Caddesi, Beyoğlu, Istanbul, Turkey</item>
+        <item>Bağdat Caddesi, Kadıköy, Istanbul, Turkey</item>
+        <item>Sultanahmet Mh., Kabasakal Cad Arasta Çarşısı, 34122 Fatih/İstanbul</item>
+        <item>Mollafenari Mahallesi, No:, Medrese Çk. No:4, 34120 Fatih/İstanbul</item>
+    </string-array>
+
+    <!-- Shopping Description List -->
+    <string-array name="shoppingDescriptionList">
+        <item>The Grand Bazaar (Kapalicarsi in Turkish) is one of the oldest and largest covered markets in the world. It was built of wood after the Conquest of Istanbul around an old Byzantine building.
+            Today, it's very popular for tourists looking for traditional shops and goods.</item>
+
+        <item>This street, running from Taksim Square all the way to Tünel, is one of the city’s main shopping streets and is always crowded. You’ll find every brand imaginable, from local to international names.
+            İstiklal also has some very interesting side streets and small pasaj (arcades), so when you see something interesting make sure to take a detour. Definitely check out the Beyoğlu Balık Pazarı (open air market) for some serious food shopping,
+            and then wander a few more steps next door to the famous Çiçek Pasajı, a famous historic arcade opened in 1876. If you get tired of walking, take the historic red tramway that runs up and down the street.</item>
+
+        <item>The Egyptian Bazaar (Misir Carsisi in Turkish) is also known as Spice Market. The Bazaar was originally made of wood in mid-17th century by the architect Kazim Aga.
+            He name comes from the fact that Egyptians used to sell their spices here and that it once received income from taxes levied on Egypt.
+            The Spice Market has 86 shops inside. Outside there is a plant market on one side and a food market on the other.</item>
+
+        <item>Çukurcuma is Istanbul’s main antique-hunting street and the beautiful neo-classical houses all around this neighborhood are very befitting of the whole nostalgic theme.
+            Walk up and down the winding streets and check out the amazing antique and vintage boutiques as well as the Museum of Innocence, which is a giant showcase for a past, but not forgotten, Istanbul.</item>
+
+        <item>The Asian side of Istanbul may be known as the more residential and quiet sister of the European side, but there certainly are enough shopping opportunities to entice you to catch the ferry.
+            Bağdat Caddesi is this side’s main shopping street, and on the weekends you’ll find residents walking up and down this endless lane or taking a break at one of the many cafés.
+            The fact that the seaside is just a few blocks down is also a plus, because you can always take a stroll by the water when you’re done shopping.</item>
+
+        <item>The Arasta Bazaar, also known as Sipahi Carsisi in Turkish, is a small and simple traditional market in Istanbul. There are about 40 shops lined on both sides of a street, selling mostly traditional items.</item>
+
+        <item>Book bazaar located in the old courtyard between Beyazid Mosque and Grand Bazaar. Today, there are still some old books, new ones, and examples of Ottoman miniature pages can be found.</item>
+    </string-array>
+
+</resources>

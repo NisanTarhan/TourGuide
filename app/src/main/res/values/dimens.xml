@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="list_item_height">120</dimen>
+    <dimen name="txtHeight">0dp</dimen>
+    <dimen name="txtSize">20sp</dimen>
+    <dimen name="padding">15dp</dimen>
+    <dimen name="padding_text">5dp</dimen>
+    <dimen name="address_textSize">12sp</dimen>
+    <dimen name="list_item_image_width">130dp</dimen>
+    <dimen name="list_item_layout_height">110dp</dimen>
+    <dimen name="padding_title">8dp</dimen>
+    <dimen name="image_height">280dp</dimen>
+</resources>
